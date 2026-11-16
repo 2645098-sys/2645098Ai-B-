@@ -1,0 +1,8 @@
+{
+  "name": "베이크텀즈 (BakeTerms) - 제과제빵 전공 용어 플래시카드",
+  "description": "제과제빵과 대학생들을 위한 필수 전공 용어 학습 플래시카드 웹 애플리케이션입니다. 제과 기초, 제빵 기초, 재료학 카테고리별 암기 및 취약 단어 복습 기능을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
